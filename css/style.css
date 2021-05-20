@@ -6,6 +6,10 @@ a {
   color: #fff;
 }
 
+.card {
+  border-radius: 0;
+}
+
 a:hover {
   color: #ddd;
   text-decoration: none;
